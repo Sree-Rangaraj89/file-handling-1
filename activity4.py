@@ -1,5 +1,5 @@
-firstfile - input("Enter the name of the 1st file")
-secondfile - input("Enter the name of 2nd file")
+firstfile = input("Enter the name of the 1st file")
+secondfile = input("Enter the name of 2nd file")
 
 f1 = open(firstfile,'r')
 f2 = open(secondfile,'r')
